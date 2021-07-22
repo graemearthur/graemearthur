@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Graeme, I am a husband and father and love open source.
 <!--
 **graemearthur/graemearthur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
